@@ -3,6 +3,7 @@ a = int(input())
 b = int(input())
 c = int(input())
 
+# находим максимум
 if b <= a >= c:
     print(a)
 elif a <= b >= c:
