@@ -1,3 +1,2 @@
-ТУт новая строка (другая строчка)
-ТУт новая строка2022
 new branch line update
+Very new_line
